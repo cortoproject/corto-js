@@ -1,0 +1,10 @@
+{
+    "id": "corto/js",
+    "type": "package",
+    "value": {
+        "description": "JavaScript API for Corto",
+        "author": "Sander Mertens",
+        "version": "1.0.0",
+        "language": null
+    }
+}
